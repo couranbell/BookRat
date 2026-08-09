@@ -448,6 +448,10 @@ h3 {
   transform: translateY(-8px);
 }
 
+.main-info-copy .section-title {
+  padding-bottom: 24px;
+}
+
 .contact-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
