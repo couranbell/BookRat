@@ -75,7 +75,7 @@ a {
   font-size: clamp(1rem, 1.5vw, 1.5rem);
 }
 
-.logo-text {
+ .logo-text {
   background: linear-gradient(90deg, #1f1204, #9b6c00 38%, #17145a 68%, #3034b7);
   color: transparent;
   -webkit-background-clip: text;
